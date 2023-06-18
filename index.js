@@ -471,10 +471,12 @@ app.listen(port, () => {
   console.log(`summer camp is running on port ${port}`)
 })
 
-//npm install --save stripe
+// npm install --save stripe
 //https://stripe.com/docs/payments/quickstart
 
 //
+
+
 
 
 
